@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site à Vendre</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .content {
+            background-color: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Site à Vendre</h1>
+</header>
+
+<div class="container">
+    <div class="content">
+        <h2>Bienvenue sur notre site à vendre !</h2>
+        <p>Ce site est actuellement disponible à l'achat. Il offre une plateforme idéale pour votre entreprise ou projet personnel.</p>
+        <p>Pour plus de détails ou pour toute question, veuillez nous contacter.</p>
+    </div>
+    <div class="contact">
+        <p>Pour tout contact, veuillez envoyer un e-mail à : <a href="mailto:Gurutechnologie@gmail.com">Gurutechnologie@gmail.com</a></p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Site à Vendre. Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
